@@ -24,7 +24,6 @@ spec:
     metadata:
       labels:
         app: hello-kubernetes
-        business-unit: my-business-unit
     spec:
       containers:
       - name: hello-kubernetes
